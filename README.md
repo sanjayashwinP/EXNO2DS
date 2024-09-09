@@ -121,6 +121,7 @@ plt = sns.boxplot(ax=ax1,x='Pclass',y='Age',hue='Gender',data=df)
 ```
 sns.catplot(data=df,col="Survived",x="Gender",hue="Pclass",kind="count")
 ```
+![image](https://github.com/user-attachments/assets/1fa965dc-2be2-4879-bce7-446b8002ff20)
 
 ```
 corr=df.corr()
