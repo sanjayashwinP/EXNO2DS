@@ -1,4 +1,6 @@
 # EXNO2DS
+### NAME:SANJAY ASHWIN P 
+### REG NO:212223040181
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
